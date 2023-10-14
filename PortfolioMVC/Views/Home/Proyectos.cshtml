@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "Proyectos";
+}
+
+<div class="row">
+    <div class="col-2"></div>
+    <div class="col col-8 text-center" style="padding-top:6rem; margin-bottom:2rem;">
+        <p class="textoProyectos">Aquí puedes ver mis trabajos más importantes, cabe destacar que algunos han sido desarrollados 
+        siguiendo cursos o libros de autoaprendizaje, mientras que otros, como el Software de Gestión de Estilistas
+        ha sido un mi primer desarrollo profesional.</p>
+    </div>
+
+</div>
+
+<partial name="_ListadoProyecto" />
+
+<div class="row">
+    <div class="col" style="text-align:-webkit-center; margin-top:2rem;">
+        <a class="btn btn-outline-primary" asp-controller="Home" asp-action="Index">Atras</a>
+    </div>
+</div>

@@ -1,0 +1,21 @@
+﻿
+@{
+    //Layout = null;
+}
+
+
+<div class="row">
+    <div class="col-2"></div>
+    <div class="col-6">
+        <h1>Gracias con contactarme!</h1>
+        <p>Responderé su mensaje lo antes posible!</p>
+        <p>Serás redirigido en 5 segundos!</p>
+        <a class="btn btn-primary" asp-controller="Home" asp-action="Index">Volver al Home</a>
+    </div>
+</div>
+<script>
+        setTimeout(function() {
+            window.location.href = '@Url.Action("Index", "Home")';
+        }, 5000); 
+
+</script>

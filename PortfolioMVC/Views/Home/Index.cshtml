@@ -1,0 +1,15 @@
+﻿@model HomeIndexViewModel
+@{
+    ViewData["Title"] = "Página Principal";
+
+}
+
+<partial name="_Presentacion" />
+<partial name="_Habilidades" />
+<partial name="_SeccionProyectos" model="Model.Proyectos" />
+
+<div class="row">
+    <div class="col" style="text-align: -webkit-center; margin-top:2rem;">
+        <a class="btn btn-outline-primary" style="justify-content:center; text-align:center;" asp-controller="Home" asp-action="Proyectos">Ver todos los proyectos</a>
+    </div>
+</div>

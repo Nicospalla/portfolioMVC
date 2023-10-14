@@ -1,0 +1,10 @@
+D:\Proyectos Csharp\Prueba2\PortfolioMVC\PortfolioMVC\obj\Debug\net6.0\PubTmp\Out\PortfolioMVC.exe
+D:\Proyectos Csharp\Prueba2\PortfolioMVC\PortfolioMVC\obj\Debug\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Proyectos Csharp\Prueba2\PortfolioMVC\PortfolioMVC\obj\Debug\net6.0\PubTmp\Out\appsettings.json
+D:\Proyectos Csharp\Prueba2\PortfolioMVC\PortfolioMVC\obj\Debug\net6.0\PubTmp\Out\PortfolioMVC.dll
+D:\Proyectos Csharp\Prueba2\PortfolioMVC\PortfolioMVC\obj\Debug\net6.0\PubTmp\Out\PortfolioMVC.deps.json
+D:\Proyectos Csharp\Prueba2\PortfolioMVC\PortfolioMVC\obj\Debug\net6.0\PubTmp\Out\PortfolioMVC.runtimeconfig.json
+D:\Proyectos Csharp\Prueba2\PortfolioMVC\PortfolioMVC\obj\Debug\net6.0\PubTmp\Out\PortfolioMVC.pdb
+D:\Proyectos Csharp\Prueba2\PortfolioMVC\PortfolioMVC\obj\Debug\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Proyectos Csharp\Prueba2\PortfolioMVC\PortfolioMVC\obj\Debug\net6.0\PubTmp\Out\SendGrid.dll
+D:\Proyectos Csharp\Prueba2\PortfolioMVC\PortfolioMVC\obj\Debug\net6.0\PubTmp\Out\StarkbankEcdsa.dll
