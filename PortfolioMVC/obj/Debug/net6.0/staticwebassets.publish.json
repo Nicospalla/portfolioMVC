@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/FFXIEdIYQCJrO2CSuSwXvfTd/yKvq22mdCTWLcD4qY=",
+  "Hash": "ZIxzWy8kn/Zm91NDHQjWQk8IKSCUnsCwtVp3neO1Acs=",
   "Source": "PortfolioMVC",
   "BasePath": "_content/PortfolioMVC",
   "Mode": "Default",
@@ -170,6 +170,23 @@
       "OriginalItemSpec": "wwwroot\\images\\frenteWebApp.png"
     },
     {
+      "Identity": "D:\\Proyectos Csharp\\Prueba2\\PortfolioMVC\\PortfolioMVC\\wwwroot\\images\\Linkedin_Logo.png",
+      "SourceId": "PortfolioMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos Csharp\\Prueba2\\PortfolioMVC\\PortfolioMVC\\wwwroot\\",
+      "BasePath": "_content/PortfolioMVC",
+      "RelativePath": "images/Linkedin_Logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Linkedin_Logo.png"
+    },
+    {
       "Identity": "D:\\Proyectos Csharp\\Prueba2\\PortfolioMVC\\PortfolioMVC\\wwwroot\\images\\MYLA.jpg",
       "SourceId": "PortfolioMVC",
       "SourceType": "Discovered",
@@ -202,6 +219,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Pokemon.png"
+    },
+    {
+      "Identity": "D:\\Proyectos Csharp\\Prueba2\\PortfolioMVC\\PortfolioMVC\\wwwroot\\images\\portfolio.png",
+      "SourceId": "PortfolioMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos Csharp\\Prueba2\\PortfolioMVC\\PortfolioMVC\\wwwroot\\",
+      "BasePath": "_content/PortfolioMVC",
+      "RelativePath": "images/portfolio.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\portfolio.png"
     },
     {
       "Identity": "D:\\Proyectos Csharp\\Prueba2\\PortfolioMVC\\PortfolioMVC\\wwwroot\\images\\ProductosCRUD2.png",

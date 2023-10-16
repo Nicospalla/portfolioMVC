@@ -1,45 +1,57 @@
-﻿#foto{
-    width:300px;
-    border-radius:30%;
-    padding:20px 0;
-}
-.seccion-bienvenida{
-    margin:5rem 0 10rem 0;
-    color:white;
+﻿#foto {
+    width: 300px;
+    border-radius: 30%;
+    padding: 20px 0;
 }
 
-.seccion-bienvenida h1{
-    margin-bottom:1rem;
+.seccion-bienvenida {
+    margin: 5rem 0 10rem 0;
+    color: white;
 }
 
-.seccion-bienvenida p {
-    font-family:'Cascadia Code';
-    line-height:1.35;
-    font-size:1.25rem;
-    font-weight:300;
+.fila{
+    justify-content: center;
+
 }
+
+    .seccion-bienvenida h1 {
+        margin-bottom: 1rem;
+    }
+
+    .seccion-bienvenida p {
+        font-family: 'Cascadia Code';
+        line-height: 1.35;
+        font-size: 1.25rem;
+        font-weight: 300;
+    }
 
 #fotoDotnet {
-    width:400px 
+    width: 300px
 }
 
-.cabecera{
-    font-weight:bold;
+@media (min-width: 576px) { /* Cambia el tamaño en pantallas SM (576px y superiores) */
+    #fotoDotnet {
+        width: 400px;
+    }
 }
 
-.habilidades ul{
-    list-style:none;
-    padding:0;
+.cabecera {
+    font-weight: bold;
+}
+
+.habilidades ul {
+    list-style: none;
+    padding: 0;
 }
 
 .habilidades i {
     color: #0D6EFD;
-   font-size:35px;
+    font-size: 35px;
 }
 
 
 .textoProyectos {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size:large;
-    font-weight:400;
+    font-size: large;
+    font-weight: 400;
 }

@@ -18,6 +18,12 @@ namespace PortfolioMVC.Servicios
                 Link = "https://github.com/Nicospalla/Myla_Salon_"
             },new Proyecto
             {
+                Titulo = "Éste Portolio MVC",
+                Descripcion = " Portfolio personal desarrollado con patrón MVC utilizando C# y ASP.NET.",
+                ImagenUrl = "/images/portfolio.png",
+                Link = "http://nicolasspalla.somee.com/"
+            },new Proyecto
+            {
                 Titulo = "Ecommerce ASP.NET WebForms",
                 Descripcion = "Ecommerce desarrollado con WebForms, con soporte de DDBB SQLServer. Desarrollado como entrega final de un curso intgral de C# y ASP.NET.",
                 ImagenUrl = "/images/frenteWebApp.png",
